@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm git-go-learn!  
+### 🚀 Go Developer | Open Source Enthusiast | Automation Lover  
 
-<!--
-**git-go-learn/git-go-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building high-performance applications and automating workflows using Go. I love learning new things and contributing to the open-source community!  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- 🏎️ **Go (Golang)** – My primary language  
+- 🔨 **CLI Tools** – Automating Dev workflows  
+- 📦 **Git & GitHub** – Version control & collaboration  
+- 🌍 **REST APIs & Web Development** – Building scalable applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-go-learn&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-go-learn&layout=compact&theme=tokyonight)  
+
+## ✨ Favorite Go Quote:
+> **"Go will be the server language of the future."** – Tobias Lütke, Shopify CEO  
+
+## 📫 Connect with Me:
+- 💬 Let's collaborate on Go projects!  
+- 🔗 [GitHub](https://github.com/git-go-learn)  
+
+🚀 Keep coding and keep learning!  
